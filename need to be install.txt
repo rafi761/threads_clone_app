@@ -1,0 +1,7 @@
+All packages need to be install :
+
+1. @clerk/nextjs (digunakan untuk authentikasi)
+2. @uploadthing/react (digunakan untuk upload file)
+3. uploadthing
+4. mongoose
+5. svix
